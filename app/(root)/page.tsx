@@ -35,6 +35,7 @@ export default function Home() {
       <h1>Next.js 14 Tutorial - 25 - Recovering from Errors</h1>
       <h1>Next.js 14 Tutorial - 28 - Parallel Routes (rendering of multiple page in the same layout) complex Dashboard </h1>
       <h1><Link href={"/dynamic-routes"}>Dynamic Routes</Link> </h1>
+      <h1><Link href={"/datafetch"}>data fetching</Link></h1>
     </>
   );
 }
